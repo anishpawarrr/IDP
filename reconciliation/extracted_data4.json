@@ -1,0 +1,15 @@
+{
+    "CompanyName":"Com1",
+    "Address":"Add1",
+    "Products":[
+        {
+            "Description":"Laptop B",
+            "Quantity":20,
+            "UnitPrice":30000,
+            "Price":600000
+        }
+    ],
+    "Taxes":0,
+    "Total":600000,
+    "Type":"Invoice"
+}

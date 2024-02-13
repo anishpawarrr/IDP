@@ -1,0 +1,21 @@
+{
+    "CompanyName":"Com1",
+    "Address":"Add1",
+    "Products":[
+        {
+            "Description":"Laptop B",
+            "Quantity":20,
+            "UnitPrice":30000,
+            "Price":200000
+        },
+        {
+            "Description":"Laptop C",
+            "Quantity":5,
+            "UnitPrice":50000,
+            "Price":250000
+        }
+    ],
+    "Taxes":50000,
+    "Total":450000,
+    "Type":"PurchaseOrder"
+}
